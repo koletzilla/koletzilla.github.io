@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://koletzilla.github.io/sitemap.xml 
